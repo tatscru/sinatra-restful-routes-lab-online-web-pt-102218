@@ -165,7 +165,7 @@ describe "Recipe App" do
       expect(page.current_path).to eq("/recipes/#{@cookie.id}")
     end
 
-  # end
+  end
 
   describe "deleting a recipe" do
 
