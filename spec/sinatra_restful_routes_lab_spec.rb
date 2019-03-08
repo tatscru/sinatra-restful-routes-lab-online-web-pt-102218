@@ -115,7 +115,7 @@ describe "Recipe App" do
   #     expect(page).to have_content("20 minutes")
 
   #   end
-  # end
+  end
 
   describe "creating a new recipe" do 
     before do 
